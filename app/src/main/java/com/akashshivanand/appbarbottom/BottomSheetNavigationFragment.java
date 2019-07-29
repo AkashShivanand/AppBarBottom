@@ -15,7 +15,7 @@ import androidx.annotation.NonNull;
 import androidx.coordinatorlayout.widget.CoordinatorLayout;
 
 /**
- * Created by sonu on 17:07, 10/01/19
+ * Created by Akash on 17:07, 10/01/19
  * Copyright (c) 2019 . All rights reserved.
  */
 public class BottomSheetNavigationFragment extends BottomSheetDialogFragment {

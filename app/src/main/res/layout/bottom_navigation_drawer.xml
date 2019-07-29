@@ -27,7 +27,7 @@
             android:layout_marginTop="16dp"
             android:layout_toLeftOf="@+id/close_image_view"
             android:layout_toRightOf="@+id/profile_image"
-            android:text="Dr. Droid"
+            android:text="Akash Kumar"
             android:textColor="@android:color/black"
             android:textSize="18sp"
             android:textStyle="bold" />
@@ -41,7 +41,7 @@
             android:layout_marginTop="2dp"
             android:layout_toLeftOf="@+id/close_image_view"
             android:layout_toRightOf="@+id/profile_image"
-            android:text="surender@androhub.com"
+            android:text="contact@akashshivanand.com"
             android:textColor="@android:color/black" />
 
 

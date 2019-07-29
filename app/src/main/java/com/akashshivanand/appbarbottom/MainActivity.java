@@ -49,6 +49,9 @@ public class MainActivity extends AppCompatActivity {
                     case R.id.action_notification:
                         Toast.makeText(MainActivity.this, "Notification clicked.", Toast.LENGTH_SHORT).show();
                         break;
+                    case R.id.action_profile:
+                        Toast.makeText(MainActivity.this, "Profile clicked.", Toast.LENGTH_SHORT).show();
+                        break;
                 }
                 return false;
             }
@@ -76,6 +79,8 @@ public class MainActivity extends AppCompatActivity {
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
             case R.id.action_notification:
+                break;
+            case R.id.action_profile:
                 break;
         }
         return super.onOptionsItemSelected(item);

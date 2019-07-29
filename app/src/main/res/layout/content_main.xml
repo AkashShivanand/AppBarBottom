@@ -19,7 +19,7 @@
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@color/colorPrimary"
+                android:background="@color/colorAccent"
                 android:onClick="toggleFabMode"
                 android:text="Toggle FAB Mode"
                 android:textColor="@android:color/white"
